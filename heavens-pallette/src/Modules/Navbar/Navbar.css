@@ -1,18 +1,19 @@
 
+
 .links_div {
   font-size: 1.6rem;
   /* color */
   background: linear-gradient(90deg, rgba(216,195,230,1) 0%, rgba(241,175,175,1) 50%, rgba(252,176,69,1) 100%);
-  display: flex; /* 1 */
-  justify-content: space-between; /* 2 */
-  padding: 1rem 2rem; /* 3 */
-  
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
 }
 
 /* below code not working i used inline css instead ugh */
-/* #link {
+/* .link {
   text-decoration: none;
   color: rgb(255, 0, 0);
   padding-left: 1rem;
-}
- */
+  padding-top: 22rem;
+  text-align: center;
+} */
